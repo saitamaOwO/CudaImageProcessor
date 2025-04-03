@@ -3,6 +3,7 @@
 This project demonstrates CUDA-based image processing with a command-line interface. It supports:
 
 - Converting an image to grayscale (using a CUDA kernel)
+- Compressing an Image
 - Resizing an image using nearest-neighbor interpolation (CUDA)
 - Applying a convolution filter (edge detection) (CUDA)
 
