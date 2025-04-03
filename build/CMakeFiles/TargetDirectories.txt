@@ -1,0 +1,3 @@
+/home/yash/Desktop/Project/CudaImageProcessor/build/CMakeFiles/CudaImageProcessor.dir
+/home/yash/Desktop/Project/CudaImageProcessor/build/CMakeFiles/edit_cache.dir
+/home/yash/Desktop/Project/CudaImageProcessor/build/CMakeFiles/rebuild_cache.dir
