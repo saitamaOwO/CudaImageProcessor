@@ -14,3 +14,8 @@ The input image is read with OpenCV and, after processing, saved to the user-spe
 1. Create a build directory:
    ```bash
    mkdir build && cd build
+   cmake ..
+   make -j$(nproc)
+2. Run
+   ```bash
+   .\CudaImageProcessor
