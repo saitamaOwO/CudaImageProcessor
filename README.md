@@ -18,4 +18,4 @@ The input image is read with OpenCV and, after processing, saved to the user-spe
    make -j$(nproc)
 2. Run
    ```bash
-   .\CudaImageProcessor
+   ./CudaImageProcessor
