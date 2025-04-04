@@ -9,7 +9,7 @@ This project demonstrates CUDA-based image processing with a command-line interf
 
 The input image is read with OpenCV and, after processing, saved to the user-specified output path. The output format is automatically determined by the file extension (e.g., .png, .jpg).
 
-## Build Instructions
+## Build and Run Instructions
 
 1. Create a build directory:
    ```bash
